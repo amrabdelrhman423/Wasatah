@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 15 15">
+    <g id="grid" transform="translate(0.75 0.75)">
+        <rect id="Rectangle-path" width="5.25" height="5.25" fill="none" stroke="#1b2b5d" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+        <rect id="Rectangle-path-2" data-name="Rectangle-path" width="5.25" height="5.25" transform="translate(8.25)" fill="none" stroke="#1b2b5d" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+        <rect id="Rectangle-path-3" data-name="Rectangle-path" width="5.25" height="5.25" transform="translate(8.25 8.25)" fill="none" stroke="#1b2b5d" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+        <rect id="Rectangle-path-4" data-name="Rectangle-path" width="5.25" height="5.25" transform="translate(0 8.25)" fill="none" stroke="#1b2b5d" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+    </g>
+</svg>

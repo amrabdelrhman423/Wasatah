@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22.75" height="6.75" viewBox="0 0 22.75 6.75">
+    <g id="more" transform="translate(8.75 0.75)">
+        <rect id="Rectangle-path" width="5.25" height="5.25" rx="2.625" fill="none" stroke="#1b2b5d" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+        <rect id="Rectangle-path-2" data-name="Rectangle-path" width="5.25" height="5.25" rx="2.625" transform="translate(8)" fill="none" stroke="#1b2b5d" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+        <rect id="Rectangle-path-3" data-name="Rectangle-path" width="5.25" height="5.25" rx="2.625" transform="translate(-8)" fill="none" stroke="#1b2b5d" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+    </g>
+</svg>
